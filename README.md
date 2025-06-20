@@ -1,4 +1,4 @@
-# 🌸 VerseVault-Versopedia
+# 🌸 VersOpedia
 
 *A digital sanctuary where poetry meets personal reflection.*
 
